@@ -8,7 +8,9 @@ The images are stored on [Docker Hub](https://hub.docker.com/r/geertw/docker-pyt
 
 ## Build process
 
-The Dockerfiles are stored in directories for each image version. Docker Hub builds new images automatically when this repository or the Python base images are updated.ython## License
+The Dockerfiles are stored in directories for each image version. Docker Hub builds new images automatically when this repository or the Python base images are updated.
+
+## License
 
 The Dockerfiles are licensed under the MIT license, see LICENSE for details.
 
