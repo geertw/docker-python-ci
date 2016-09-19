@@ -10,3 +10,4 @@ RUN apk add --no-cache libxml2 libxml2-dev libxslt-dev gcc build-base --virtual 
   && pip install pytz \
   && apk del build-dependencies build-base gcc
 
+RUN apk add --no-cache mysql-client
